@@ -659,60 +659,6 @@
       "collections": "Full Background Glow",
       "author": "Customize n Tricks"
     },
-     {
-      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/wall-factory/main/abstract%202.png",
-      "name": "asbtract 2",
-      "collections": "asbtract",
-      "author": "Android Tools 4u"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/wall-factory/main/abstract%203.png",
-      "name": "asbtract 3",
-      "collections": "asbtract",
-      "author": "Android Tools 4u"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/wall-factory/main/abstract%204.png",
-      "name": "asbtract 4",
-      "collections": "asbtract",
-      "author": "Android Tools 4u"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/wall-factory/main/abstract%205.png",
-      "name": "asbtract 5",
-      "collections": "asbtract",
-      "author": "Android Tools 4u"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/wall-factory/main/abstract%206.png",
-      "name": "asbtract 6",
-      "collections": "asbtract",
-      "author": "Android Tools 4u"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/wall-factory/main/abstract%207.png",
-      "name": "asbtract 7",
-      "collections": "asbtract",
-      "author": "Android Tools 4u"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/wall-factory/main/abstract%208.png",
-      "name": "asbtract 8",
-      "collections": "asbtract",
-      "author": "Android Tools 4u"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/wall-factory/main/abstract%209.png",
-      "name": "asbtract 9",
-      "collections": "asbtract",
-      "author": "Android Tools 4u"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/wall-factory/main/abstract%2010.png",
-      "name": "asbtract 10",
-      "collections": "asbtract",
-      "author": "Android Tools 4u"
-    },
     {
       "url": "https://raw.githubusercontent.com/FathyMahmoud5030/wall-factory/main/floral%201.png",
       "name": "floral 1",
@@ -831,6 +777,60 @@
       "url": "https://raw.githubusercontent.com/FathyMahmoud5030/wall-factory/main/natural%2010.png",
       "name": "natural 10",
       "collections": "natural",
+      "author": "Android Tools 4u"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/wall-factory/main/abstract%202.png",
+      "name": "asbtract 2",
+      "collections": "asbtract",
+      "author": "Android Tools 4u"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/wall-factory/main/abstract%203.png",
+      "name": "asbtract 3",
+      "collections": "asbtract",
+      "author": "Android Tools 4u"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/wall-factory/main/abstract%204.png",
+      "name": "asbtract 4",
+      "collections": "asbtract",
+      "author": "Android Tools 4u"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/wall-factory/main/abstract%205.png",
+      "name": "asbtract 5",
+      "collections": "asbtract",
+      "author": "Android Tools 4u"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/wall-factory/main/abstract%206.png",
+      "name": "asbtract 6",
+      "collections": "asbtract",
+      "author": "Android Tools 4u"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/wall-factory/main/abstract%207.png",
+      "name": "asbtract 7",
+      "collections": "asbtract",
+      "author": "Android Tools 4u"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/wall-factory/main/abstract%208.png",
+      "name": "asbtract 8",
+      "collections": "asbtract",
+      "author": "Android Tools 4u"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/wall-factory/main/abstract%209.png",
+      "name": "asbtract 9",
+      "collections": "asbtract",
+      "author": "Android Tools 4u"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FathyMahmoud5030/wall-factory/main/abstract%2010.png",
+      "name": "asbtract 10",
+      "collections": "asbtract",
       "author": "Android Tools 4u"
     },
     {
