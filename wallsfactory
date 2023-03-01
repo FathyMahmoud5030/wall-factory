@@ -2,19 +2,19 @@
 
     {
       "url": "https://raw.githubusercontent.com/FathyMahmoud5030/wall-factory/main/scenery/13.jpg",
-      "name": "Scenery 13",
+      "name": "Scenery 11",
       "collections": "Scenery",
       "author": "Android Tools 4u"
     },
     {
       "url": "https://raw.githubusercontent.com/FathyMahmoud5030/wall-factory/main/scenery/12.jpg",
-      "name": "Scenery 12",
+      "name": "Scenery 10",
       "collections": "Scenery",
       "author": "Android Tools 4u"
     },
     {
       "url": "https://raw.githubusercontent.com/FathyMahmoud5030/wall-factory/main/scenery/11.png",
-      "name": "Scenery 11",
+      "name": "Scenery 9",
       "collections": "Scenery",
       "author": "Android Tools 4u"
     },
@@ -351,7 +351,7 @@
     {
       "url": "https://raw.githubusercontent.com/FathyMahmoud5030/wall-factory/main/landscape/4.png",
       "name": "Landscape 4",
-      "collections": "LandscapeLove",
+      "collections": "Landscape",
       "author": "Android Tools 4u"
     },
     {
@@ -801,7 +801,7 @@
     {
       "url": "https://raw.githubusercontent.com/FathyMahmoud5030/wall-factory/main/new/wall%2024.jpg",
       "name": "Wall 24",
-      "collections": "v",
+      "collections": "exclusive Walls",
       "author": "Android Tools 4u"
     },
     {
